@@ -48,5 +48,5 @@ The application is designed to be simple yet powerful, making it suitable for sm
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/flight-reservation-app.git
+   git clone https://github.com/GrandMasterDev71/flight-reservation-app.git
    cd flight-reservation-app
